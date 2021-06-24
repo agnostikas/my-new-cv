@@ -3,189 +3,104 @@
 #
 
 sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Egidijus Gecas
+    tagline: Network Software Engineer
+    avatar: untitled.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    email: egi2tis@gmail.com
+    phone: +44 79 09 936 463
+    website: # blog.webjeda.com #do not add http://
+    linkedin: donegida
+    xing: # ee
+    github: agnostikas
+    telegram: # na
+    gitlab: agnostikas
+    bitbucket: agnostikas
+    twitter: # 'na'
+    stack-overflow: # egi2tis
     codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
+    goodreads: # 
 
     languages:
-      - idiom: English
+      - idiom: Lithuanian
         level: Native
 
-      - idiom: French
-        level: Professional
+      - idiom: English
+        level: Fluent
 
-      - idiom: Spanish
-        level: Professional
+      - idiom: Russian & Polish
+        level: Basic speaking & understanding
 
     interests:
-      - item: Climbing
-        link:
-
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
-        link:
+      - item: Maths
+      - item: Sudoku
+      - item: Surrealism
+      - item: Philosophy
+      - item: Checkers
 
 career-profile:
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
-education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+    summary:
+         
+          * Thrive at building effective and practical software solutions for business critical information systems 
+            cohesive with standard networking integrations
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+          * Partisan of CNCF, FINOS, CD.Foundation landscapes including RedHat toolchain topologies
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+          * Enjoy using (hacking with) - CircleCI, GitLab, CloudFoundry, Goorm, MyCorrhiza.Lesarbr (WikiEngine)
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+          * Consensus and attentive to W3C standards & IETF Drafts / RFCs 
+            including new transport tech (as Quic) 
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+          * Approx 4 Years experience with developing Ecom (inc SaaS) solutions & APIs 
+            Used   ::  PHP [Laravel, MySQL], VueJS [ Buefy, Typescript, NodeJS ]   ::
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+          * Other Full-Stack expertise ~ (to be frank only a fair one) :   
+            _ Microsoft [ ASP.Net, Azure cloud, MS-DOS, Powershell, IOT DevKits ] + cloud integrations {AWS, IBM } 
+            _ Unix/Linux & Network Boot Firmwares - Freewares [ Bash, iPXE, Lxde, Ruby Formulae Brew, Perl Cgi, Docker (GO) ]
+            _ Red/Blue team Cyber vaults (Pen-testing)  :: 
+              => ^ Nmap, XSS/XXE, CSP policy & DNS zone tweaks, Buffer Overflows
+              => ^ ReverseShells & recent CVE (vuln.) exploits, OWASP (Heroku Swagger) & Burp Suite
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+     Previous experience:
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+          Agathos - E-com Developer (over 2 years) - 2019-2021
+          Partemba Global - PHP Developer (1 year) - circa 2018
 
-skills:
-    title: Skills &amp; Proficiency
+     Achievements (KPIs):  
+          
+          Chalice team - Legacy PHP, Singleton design, initially developed using Simple (reminiscent of AppleSoft Basic) in 1980s 
 
-    toolset:
-      - name: Python & Django
-        level: 98%
+           Introduced the average 50% saving on shipping costs by integrating Parcelhub's API multi-carrier services & discounted pool rates
+           Approx 30% increased the time efficiency & the ratio of shipments/packages per station / hour
 
-      - name: Javascript & jQuery
-        level: 98%
+          WebBear team - ( Laravel / Eloquent / OOP )
+ 
+           Designed & developed e-com framework + CMS (by managing one junior developer)
+           Rewrote the admin panel (Voyager) & Brought Vue/Buefy knowledge to the company
+           - Reduced Abandoned basket rate by 3.4 times (85% to 35%) on Web Orders
+           By using Luckins API for data integration achieved a page load times under 2s having:
+           - 40k-50k Live Skus within several (<10) parent categories 
+           - most (Skus) having tens of filters (specs) combining multiple attributes, price, brand
 
-      - name: Angular
-        level: 98%
+          Partemba dev team - ( Vue / PHP )
+           
+            daily auto-reporting & monitoring functionality to managers
+            reports of issues with data (or stock) & interface to action
+            resulting up to 40% efficiency increase on warehouse KPIs
+       
+           Motto - Goal:
+          
+            If you try to imagine a Graham's number, your brain will explode and become a black hole -
+            that's how big should be the ambition.
+             
+            Contribute and be a part of organisation, where innovative solutions and embraced
+            corporate culture are paramount.
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+           footer: 
+            Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow"> 0x 3gid4 </a>
