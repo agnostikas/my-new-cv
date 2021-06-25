@@ -67,12 +67,12 @@ career-profile:
               => ^ Nmap, XSS/XXE, CSP policy & DNS zone tweaks, Buffer Overflows
               => ^ ReverseShells & recent CVE (vuln.) exploits, OWASP (Heroku Swagger) & Burp Suite
 
-     Previous experience:
+     previous-experience:
 
           Agathos - E-com Developer (over 2 years) - 2019-2021
           Partemba Global - PHP Developer (1 year) - circa 2018
 
-     Achievements (KPIs):  
+     achievements-KPIs:  
           
           Chalice team - Legacy PHP, Singleton design, initially developed using Simple (reminiscent of AppleSoft Basic) in 1980s 
 
@@ -94,7 +94,7 @@ career-profile:
             reports of issues with data (or stock) & interface to action
             resulting up to 40% efficiency increase on warehouse KPIs
        
-           Motto - Goal:
+           motto-goal:
           
             If you try to imagine a Graham's number, your brain will explode and become a black hole -
             that's how big should be the ambition.
