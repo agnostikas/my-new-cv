@@ -2,8 +2,8 @@
 
 # Site Settings
 title: My Resume
-url: 'https://agnostikas.github.io/online-cv/'
-baseurl: '/online-cv/' #change it according to your repository name
+url: 'https://agnostikas.github.io/my-new-cv/'
+baseurl: '/my-new-cv/' #change it according to your repository name
 description: In Jekyll theme created resume
 # Style will be applied only after restarting the build or serve. Just choose one of the options.
 theme_skin: ceramic # blue turquoise green berry orange ceramic
