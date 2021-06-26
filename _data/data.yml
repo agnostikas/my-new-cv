@@ -1,10 +1,6 @@
-#
-# Be aware that even a small syntax error here can lead to failures in output.
-#
 
 sidebar:
-    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    about: False 
 
     # Profile information
     name: Egidijus Gecas
@@ -14,7 +10,7 @@ sidebar:
     # Sidebar links
     email: egi2tis@gmail.com
     phone: +44 79 09 936 463
-    website: # blog.webjeda.com #do not add http://
+    website: # 
     linkedin: donegida
     xing: # ee
     github: agnostikas
@@ -46,61 +42,16 @@ sidebar:
 career-profile:
     title: Career Profile
     summary:
-         
-          * Thrive at building effective and practical software solutions for business critical information systems 
-            cohesive with standard networking integrations
-
-          * Partisan of CNCF, FINOS, CD.Foundation landscapes including RedHat toolchain topologies
-
-          * Enjoy using (hacking with) - CircleCI, GitLab, CloudFoundry, Goorm, MyCorrhiza.Lesarbr (WikiEngine)
-
-          * Consensus and attentive to W3C standards & IETF Drafts / RFCs 
-            including new transport tech (as Quic) 
-
-          * Approx 4 Years experience with developing Ecom (inc SaaS) solutions & APIs 
-            Used   ::  PHP [Laravel, MySQL], VueJS [ Buefy, Typescript, NodeJS ]   ::
-
-          * Other Full-Stack expertise ~ (to be frank only a fair one) :   
-            _ Microsoft [ ASP.Net, Azure cloud, MS-DOS, Powershell, IOT DevKits ] + cloud integrations {AWS, IBM } 
-            _ Unix/Linux & Network Boot Firmwares - Freewares [ Bash, iPXE, Lxde, Ruby Formulae Brew, Perl Cgi, Docker (GO) ]
-            _ Red/Blue team Cyber vaults (Pen-testing)  :: 
-              => ^ Nmap, XSS/XXE, CSP policy & DNS zone tweaks, Buffer Overflows
-              => ^ ReverseShells & recent CVE (vuln.) exploits, OWASP (Heroku Swagger) & Burp Suite
+          ToBeFilled
 
      previous-experience:
-
-          Agathos - E-com Developer (over 2 years) - 2019-2021
-          Partemba Global - PHP Developer (1 year) - circa 2018
-
+          ToBeFilled
+        
      achievements-KPIs:  
-          
-          Chalice team - Legacy PHP, Singleton design, initially developed using Simple (reminiscent of AppleSoft Basic) in 1980s 
-
-           Introduced the average 50% saving on shipping costs by integrating Parcelhub's API multi-carrier services & discounted pool rates
-           Approx 30% increased the time efficiency & the ratio of shipments/packages per station / hour
-
-          WebBear team - ( Laravel / Eloquent / OOP )
- 
-           Designed & developed e-com framework + CMS (by managing one junior developer)
-           Rewrote the admin panel (Voyager) & Brought Vue/Buefy knowledge to the company
-           - Reduced Abandoned basket rate by 3.4 times (85% to 35%) on Web Orders
-           By using Luckins API for data integration achieved a page load times under 2s having:
-           - 40k-50k Live Skus within several (<10) parent categories 
-           - most (Skus) having tens of filters (specs) combining multiple attributes, price, brand
-
-          Partemba dev team - ( Vue / PHP )
-           
-            daily auto-reporting & monitoring functionality to managers
-            reports of issues with data (or stock) & interface to action
-            resulting up to 40% efficiency increase on warehouse KPIs
-       
-           motto-goal:
-          
-            If you try to imagine a Graham's number, your brain will explode and become a black hole -
-            that's how big should be the ambition.
-             
-            Contribute and be a part of organisation, where innovative solutions and embraced
-            corporate culture are paramount.
-
-           footer: 
-            Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow"> 0x 3gid4 </a>
+         
+             ToBeFilled
+     motto-goal:
+      
+             TBF
+footer: 
+        Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow"> 0x 3gid4 </a>
